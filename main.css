@@ -1,0 +1,74 @@
+body {
+	font-family: 'Open sans', sans-serif;
+	background-color: black;
+	color: white;
+}
+ a {
+    text-decoration: none;
+}
+.hr-dotted {
+	margin: 20px 0;
+	padding: 0;
+	height: 0;
+	border: none;
+	border-top: 12px dotted white;
+	width: 100px;
+	margin-left: 650px;
+}
+h1 {
+	position: absolute;
+	top: 15px;
+	left: 420px; 
+	font-size: 22px;
+}
+.ddd {
+	position: absolute;
+	top: 65px;
+	left: 420px; 
+}
+.ggg {
+	position: absolute;
+	top: 250px;
+	left: 555px;
+	font-size: 23px;
+}
+.hhh {
+	margin-left: 25px;
+}
+.kkk {
+	display: inline;
+}
+.fff {
+	padding-left: 20px;
+}
+h6 {
+	text-decoration: none;
+}
+h7 {
+	position: absolute;
+	top: 1065px;
+	right: 710px;
+}
+.films {
+	position: absolute;
+	top: 1100px;
+	right: 440px;
+	font-size: 20px;
+}
+h9 {
+	position: absolute;
+	top: 1275px;
+	right: 700px;
+}
+.anime {
+	position: absolute;
+	top: 1300px;
+	right: 495px;
+	font-size: 20px;
+}
+.books {
+	font-size: 20px;
+}
+.siries {
+	font-size: 20px;
+}
